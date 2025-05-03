@@ -1,4 +1,4 @@
-##Alanine-scan
+## Alanine-scan
 Python scripts for alanine scanning of NGS data. Used in publication by R. C. Prins, programmed by T. Marinus [1]. 
 Cells were grouped in halo size, DNA library prep was performed per group with an unique bar code. Goal of this script was to analyse the mapped sam/bam file and find all amino acids that are mutated into Alanine.
 
